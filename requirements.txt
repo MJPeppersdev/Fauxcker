@@ -1,0 +1,9 @@
+requests
+docopt
+terminaltables
+nsenter
+snakeoil
+pychroot
+cgroups
+pyroute2
+colorama
